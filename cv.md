@@ -23,4 +23,14 @@ I hope I will continue to develop in this direction.
 I developed in Nest.js, Vue and deployed to AWS. Also developed web games with a library Pixi.js.
 *****************
 
+## Code examples
+
+You can see code examples in my github account.
+***************
+
+## Experience
+
+I have been working for a web developer company for less than 2 years.
+You can see code examples in my github account.
+*****************
 
